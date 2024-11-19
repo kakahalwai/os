@@ -1,0 +1,5 @@
+Name,Math,Science,English
+Alice,80,75,39
+Bob,35,90,85
+Charlie,50,40,45
+

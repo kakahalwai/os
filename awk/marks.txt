@@ -1,0 +1,6 @@
+StudentID,StudentName,Telugu,English,Maths,Science,Social
+1,John Doe,45,78,65,88,75
+2,Jane Smith,30,45,50,60,40
+3,Alice Johnson,75,80,90,88,70
+4,Bob Wilson,25,40,35,55,60
+5,Charlie Brown,60,70,75,80,85
