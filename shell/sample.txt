@@ -1,3 +1,0 @@
-Hello, this is a sample text file.
-    It contains multiple lines of text.
-    Let's count the number of lines, words, and characters.
